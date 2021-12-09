@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import './Inter/static/Inter-Black.ttf';
+import './Inter/static/Inter-Bold.ttf';
+import './Inter/static/Inter-ExtraBold.ttf';
+import './Inter/static/Inter-ExtraLight.ttf';
 
 ReactDOM.render(
   <React.StrictMode>

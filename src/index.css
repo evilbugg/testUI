@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "Inter-Black";
+  src: local("Inter-Black"),
+    url("./Inter/static/Inter-Black.ttf") format("truetype");
+  font-weight: bold;
+}
+
+
+@font-face {
+  font-family: "Inter-Bold";
+  src: local("Inter-Bold"),
+  url("./Inter/static/Inter-Bold.ttf") format("truetype");
+  font-weight: bold;
+}
